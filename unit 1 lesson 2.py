@@ -5,7 +5,7 @@
 # Modify 
 amount = 24
 print("Two dozen is: ", amount)
-# Using the variable amount can help with readability of the code and printing "Two dozen is: " gives back more feedback and infomration whenrunning it
+# Using the variable amount can help with readability of the code and printing "Two dozen is: " gives back more feedback and infomration when running it
 amount = 7 * 4
 print("forty-two is: ", amount) 
 # The fixed output would be
