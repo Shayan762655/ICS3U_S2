@@ -19,4 +19,5 @@ num = int(num)
 num3 = int(num3)
 num2 = num / num3
 print("When", num, "is divided by", num3, "the result is:", num2)
-# The reason the instruction "Use any whole number except zero" is needed is because you can't divide by 0, which will cause python to crash
+# The reason the instruction "Use any whole number except zero" is needed because you can't divide by 0
+# It will cause python to crash
