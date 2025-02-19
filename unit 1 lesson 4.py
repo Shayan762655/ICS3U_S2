@@ -14,7 +14,7 @@
 
 # Modify
 Num = input("Please input a whole number: ")
-Num3 = input("Use any whole number except 0: ')
+Num3 = input("Use any whole number except zero: ")
 num = int(num)
 num3 = int(num3)
 num2 = num / num3
