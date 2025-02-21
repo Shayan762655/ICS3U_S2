@@ -18,8 +18,7 @@ print("forty-two is: ",amount)
 # modify 3
 amount = 8
 amount = amount + 1
-# or
-amount = += 1
+# or amount = += 1
 print("the amount is: ",amount)
 # this is telling us that the amount, which is 8 is being added to 1, which gives us 9
 # it can also be written as += 1
@@ -27,8 +26,7 @@ print("the amount is: ",amount)
 # modify 4
 amount = 8
 amount = amount * 2
-# or
-amount *= 2
+# or amount *=2
 print(amount)
 # this is telling us that the amount, which is 8 is being mutlipled into 2, which gives us 16
 # it can also be written as *= 2
